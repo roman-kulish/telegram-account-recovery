@@ -1,5 +1,7 @@
 # Telegram Account Recovery
 
+> **Background:** Read the story behind this tool — [How a 30-Year IT Veteran Got Pwned by a Telegram Phishing Link and Took Their Account Back](https://medium.com/@roman.kulish/how-a-30-year-it-veteran-got-pwned-by-a-telegram-phishing-link-and-took-their-account-back-e193569b35f8)
+
 Automated recovery script for a compromised Telegram account. Connects via QR login, then executes four sequential waves of actions to evict an attacker, lock the account down, collect forensic evidence, and warn your contacts — all in a single run.
 
 ---
